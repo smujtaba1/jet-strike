@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/jet-strike/static/css/main.261bde80.chunk.css",
-    "main.js": "/jet-strike/static/js/main.d941a8c7.chunk.js",
-    "main.js.map": "/jet-strike/static/js/main.d941a8c7.chunk.js.map",
+    "main.css": "/jet-strike/static/css/main.e1dcbdf7.chunk.css",
+    "main.js": "/jet-strike/static/js/main.d3ef6af3.chunk.js",
+    "main.js.map": "/jet-strike/static/js/main.d3ef6af3.chunk.js.map",
     "runtime-main.js": "/jet-strike/static/js/runtime-main.90db5d4c.js",
     "runtime-main.js.map": "/jet-strike/static/js/runtime-main.90db5d4c.js.map",
-    "static/js/2.ceb70704.chunk.js": "/jet-strike/static/js/2.ceb70704.chunk.js",
-    "static/js/2.ceb70704.chunk.js.map": "/jet-strike/static/js/2.ceb70704.chunk.js.map",
+    "static/js/2.48f5e56e.chunk.js": "/jet-strike/static/js/2.48f5e56e.chunk.js",
+    "static/js/2.48f5e56e.chunk.js.map": "/jet-strike/static/js/2.48f5e56e.chunk.js.map",
     "index.html": "/jet-strike/index.html",
-    "precache-manifest.3b60feaa2bca3e23ebae270a1a1b5ae8.js": "/jet-strike/precache-manifest.3b60feaa2bca3e23ebae270a1a1b5ae8.js",
+    "precache-manifest.a4e1657b6b8eb0a058bd79a0d9236008.js": "/jet-strike/precache-manifest.a4e1657b6b8eb0a058bd79a0d9236008.js",
     "service-worker.js": "/jet-strike/service-worker.js",
-    "static/css/main.261bde80.chunk.css.map": "/jet-strike/static/css/main.261bde80.chunk.css.map",
+    "static/css/main.e1dcbdf7.chunk.css.map": "/jet-strike/static/css/main.e1dcbdf7.chunk.css.map",
+    "static/media/bug.png": "/jet-strike/static/media/bug.e79256f9.png",
     "static/media/jetplane.png": "/jet-strike/static/media/jetplane.f4a60990.png"
   }
 }
