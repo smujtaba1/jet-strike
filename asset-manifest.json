@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jet-strike/static/css/main.3bf872ce.chunk.css",
+    "main.css": "/jet-strike/static/css/main.93955461.chunk.css",
     "main.js": "/jet-strike/static/js/main.957f3433.chunk.js",
     "main.js.map": "/jet-strike/static/js/main.957f3433.chunk.js.map",
     "runtime-main.js": "/jet-strike/static/js/runtime-main.90db5d4c.js",
@@ -8,9 +8,9 @@
     "static/js/2.dd69ebc3.chunk.js": "/jet-strike/static/js/2.dd69ebc3.chunk.js",
     "static/js/2.dd69ebc3.chunk.js.map": "/jet-strike/static/js/2.dd69ebc3.chunk.js.map",
     "index.html": "/jet-strike/index.html",
-    "precache-manifest.5631df68e54e56e5735b287ed3d0c40b.js": "/jet-strike/precache-manifest.5631df68e54e56e5735b287ed3d0c40b.js",
+    "precache-manifest.f864f071db33990f185066fd8c60d2fc.js": "/jet-strike/precache-manifest.f864f071db33990f185066fd8c60d2fc.js",
     "service-worker.js": "/jet-strike/service-worker.js",
-    "static/css/main.3bf872ce.chunk.css.map": "/jet-strike/static/css/main.3bf872ce.chunk.css.map",
+    "static/css/main.93955461.chunk.css.map": "/jet-strike/static/css/main.93955461.chunk.css.map",
     "static/media/bug.png": "/jet-strike/static/media/bug.e79256f9.png",
     "static/media/jetplane.png": "/jet-strike/static/media/jetplane.f4a60990.png"
   }
