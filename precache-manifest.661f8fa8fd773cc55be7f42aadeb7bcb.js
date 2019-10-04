@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ec4d4592e56799fdb93bc242953b4a1",
+    "revision": "de69f45caf1565c577034cfda2c2e2d3",
     "url": "/jet-strike/index.html"
   },
   {
-    "revision": "2a43ea3ed0520760d2e4",
-    "url": "/jet-strike/static/css/main.b54a62b9.chunk.css"
+    "revision": "8e42908a4014759b6c03",
+    "url": "/jet-strike/static/css/main.4b9e8c16.chunk.css"
   },
   {
-    "revision": "41dda8a5985229d1edf5",
-    "url": "/jet-strike/static/js/2.59d90979.chunk.js"
+    "revision": "a48ac3187d5c770f5c2b",
+    "url": "/jet-strike/static/js/2.41e18091.chunk.js"
   },
   {
-    "revision": "2a43ea3ed0520760d2e4",
-    "url": "/jet-strike/static/js/main.967a6c1d.chunk.js"
+    "revision": "8e42908a4014759b6c03",
+    "url": "/jet-strike/static/js/main.00a03e0d.chunk.js"
   },
   {
     "revision": "b0232112ea72a37c3370",
     "url": "/jet-strike/static/js/runtime-main.90db5d4c.js"
+  },
+  {
+    "revision": "2497546b70320c9d334ed7018bc9378d",
+    "url": "/jet-strike/static/media/alien1.2497546b.png"
   },
   {
     "revision": "711212aca533e65136834aa8f3388179",
