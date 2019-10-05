@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/jet-strike/static/css/main.23f58cd2.chunk.css",
-    "main.js": "/jet-strike/static/js/main.bd61156a.chunk.js",
-    "main.js.map": "/jet-strike/static/js/main.bd61156a.chunk.js.map",
+    "main.css": "/jet-strike/static/css/main.8d3a363f.chunk.css",
+    "main.js": "/jet-strike/static/js/main.7448b8d2.chunk.js",
+    "main.js.map": "/jet-strike/static/js/main.7448b8d2.chunk.js.map",
     "runtime-main.js": "/jet-strike/static/js/runtime-main.90db5d4c.js",
     "runtime-main.js.map": "/jet-strike/static/js/runtime-main.90db5d4c.js.map",
-    "static/js/2.80989088.chunk.js": "/jet-strike/static/js/2.80989088.chunk.js",
-    "static/js/2.80989088.chunk.js.map": "/jet-strike/static/js/2.80989088.chunk.js.map",
+    "static/js/2.49603104.chunk.js": "/jet-strike/static/js/2.49603104.chunk.js",
+    "static/js/2.49603104.chunk.js.map": "/jet-strike/static/js/2.49603104.chunk.js.map",
     "index.html": "/jet-strike/index.html",
-    "precache-manifest.d865dde843b4880fe0886fef243072ec.js": "/jet-strike/precache-manifest.d865dde843b4880fe0886fef243072ec.js",
+    "precache-manifest.d1ad0c52de220f2f49d9112f8fa4da42.js": "/jet-strike/precache-manifest.d1ad0c52de220f2f49d9112f8fa4da42.js",
     "service-worker.js": "/jet-strike/service-worker.js",
-    "static/css/main.23f58cd2.chunk.css.map": "/jet-strike/static/css/main.23f58cd2.chunk.css.map",
+    "static/css/main.8d3a363f.chunk.css.map": "/jet-strike/static/css/main.8d3a363f.chunk.css.map",
     "static/media/alien1.png": "/jet-strike/static/media/alien1.2497546b.png",
+    "static/media/alien2.png": "/jet-strike/static/media/alien2.f3c8cd84.png",
     "static/media/bug.png": "/jet-strike/static/media/bug.711212ac.png",
-    "static/media/bullet.png": "/jet-strike/static/media/bullet.15906dea.png",
+    "static/media/bullet.png": "/jet-strike/static/media/bullet.35f1a31c.png",
     "static/media/jetplane.png": "/jet-strike/static/media/jetplane.f4a60990.png",
     "static/media/jetplane2.png": "/jet-strike/static/media/jetplane2.265da5a7.png",
-    "static/media/FirstLevel.css": "/jet-strike/static/media/laser9.b3fd2ffd.png",
+    "static/media/SecondLevel.css": "/jet-strike/static/media/laser9.b3fd2ffd.png",
     "static/media/robot.png": "/jet-strike/static/media/robot.a9153570.png"
   }
 }
